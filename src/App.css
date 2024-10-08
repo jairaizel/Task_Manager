@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.task-column {
+  width: 30%;
+  margin: 0 10px;
+}
+
+.task-card {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.task-card .task-content {
+  text-align: left;
+}
